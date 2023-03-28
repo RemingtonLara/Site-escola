@@ -1,2 +1,2 @@
 # Site-escola
-Apresentar a pagina da colegio, um pouco das informações.
+Apresentar a pagina do colegio, mais informações.
